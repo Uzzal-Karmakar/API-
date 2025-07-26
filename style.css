@@ -9,11 +9,11 @@
 img {
   max-width: 100%;
   height: auto;
-  border-radius: 50%;
+/*   border-radius: 50%; */
   height: 70rem;
-  border: 10px solid rgb(255, 0, 0);
+/*   border: 10px solid rgb(255, 0, 0); */
 }
-.image-container-item {
+.img-container-item {
   width: 96%;
   padding: 20px;
   border-radius: 10px;
@@ -22,7 +22,7 @@ img {
   margin: 15px auto 0;
   text-align: center;
 }
-.image-container-item p {
+.img-container-item p {
   font-size: 25px;
   font-weight: bold;
   text-align: center;
